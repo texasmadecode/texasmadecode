@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @texasmadecode
-- 👀 I’m interested in coding and Exploiting for educational purposes
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning javascript,and c++
 
 <!---
