@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Cybersecurity, c++, networking**
 
-- 📫 How to reach me **TexasmadedaIIas49@gmail.com**
+- 📫 How to reach me
+- **va.gonzalez@modern-officer.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
