@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Victor Gonzalez</h1>
+
 <h3 align="center">A passionate dev and project builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=texasmadecode&label=Profile%20views&color=0e75b6&style=flat" alt="texasmadecode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=texasmadecode" alt="texasmadecode" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity, c++, networking**
 
 - 📫 How to reach me
 - **va.gonzalez@modern-officer.dev**
