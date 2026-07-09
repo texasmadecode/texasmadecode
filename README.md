@@ -1,7 +1,7 @@
 
 
-- 📫 How to reach me
-- **va.gonzalez@modern-officer.dev**
+- How to reach me
+- **texasmadedallas49@gmail.com**
 
 
 
